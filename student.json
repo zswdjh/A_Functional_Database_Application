@@ -1,0 +1,15 @@
+{
+  "course": "ece180b",
+  "students": [
+    {
+      "name"  : "Jing Liang",
+      "pid"   : "A53213765",
+      "email" : "jil884@eng.ucsd.edu",
+    },
+    {
+      "name"  : "Vladi Iotov",
+      "pid"   : "A12300827",
+      "email" : "vladi.iotov@me.com",
+    }
+  ]
+}
